@@ -1,0 +1,2 @@
+# kimurasean.github.io
+blog
